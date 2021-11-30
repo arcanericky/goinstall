@@ -1,4 +1,4 @@
-module github.com/arcanericky/cmd/goinstall
+module github.com/arcanericky/goinstall/cmd/goinstall
 
 go 1.18
 
